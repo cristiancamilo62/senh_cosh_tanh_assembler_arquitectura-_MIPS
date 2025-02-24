@@ -13,7 +13,7 @@ Se utiliza la **Serie de Taylor** para aproximaciones matemáticas y el código 
 
 ## 🛠️ Tecnologías Utilizadas
 🔹 **Lenguaje**: Assembly MIPS  
-🔹 **Simulador**: [MARS 4.5][https://www.softpedia.com/get/Programming/Coding-languages-Compilers/Vollmar-MARS.shtml] 
+🔹 **Simulador**: [MARS 4.5](http://courses.missouristate.edu/KenVollmar/MARS/)  
 🔹 **Arquitectura**: MIPS32  
 
 ---
@@ -26,7 +26,7 @@ cd senh_cosh_tanh_assembler_arquitectura-_MIPS
 ```
 
 ### 2️⃣ **Abrir el código en MARS 4.5**
-- Descarga e instala **MARS 4.5** desde [aquí](http://courses.missouristate.edu/KenVollmar/MARS/).
+- Descarga e instala **MARS 4.5** desde [aquí](https://www.softpedia.com/get/Programming/Coding-languages-Compilers/Vollmar-MARS.shtml).
 - Abre el archivo `.asm` en el simulador.
 
 ### 3️⃣ **Ejecutar el programa**
