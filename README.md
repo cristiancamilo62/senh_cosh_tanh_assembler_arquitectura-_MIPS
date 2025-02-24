@@ -13,7 +13,7 @@ Se utiliza la **Serie de Taylor** para aproximaciones matemáticas y el código 
 
 ## 🛠️ Tecnologías Utilizadas
 🔹 **Lenguaje**: Assembly MIPS  
-🔹 **Simulador**: [MARS 4.5]([http://courses.missouristate.edu/KenVollmar/MARS/](https://www.softpedia.com/get/Programming/Coding-languages-Compilers/Vollmar-MARS.shtml))  
+🔹 **Simulador**: [MARS 4.5][https://www.softpedia.com/get/Programming/Coding-languages-Compilers/Vollmar-MARS.shtml] 
 🔹 **Arquitectura**: MIPS32  
 
 ---
