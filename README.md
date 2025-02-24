@@ -42,5 +42,7 @@ Cuando ejecutas el código en **MARS 4.5**, la salida en consola es:
 Ingrese el valor de x: 5
 El seno hiperbólico de x es: 74.203224
 ```
+![image](https://github.com/user-attachments/assets/08d2c3ff-add6-4695-9c72-3d5a8a5c106e)
+
 
 💡 **Nota:** El cálculo usa la **Serie de Taylor** para aproximaciones matemáticas.
