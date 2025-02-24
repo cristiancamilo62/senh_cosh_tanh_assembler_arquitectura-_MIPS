@@ -29,6 +29,12 @@ cd senh_cosh_tanh_assembler_arquitectura-_MIPS
 - Descarga e instala **MARS 4.5** desde [aquí](https://www.softpedia.com/get/Programming/Coding-languages-Compilers/Vollmar-MARS.shtml).
 - Abre el archivo `.asm` en el simulador.
 
+![image](https://github.com/user-attachments/assets/045f2011-8f9d-4b61-ac5a-e517f45abdc3)
+
+![image](https://github.com/user-attachments/assets/af9247bb-1668-432f-806e-fa1bcc54d014)
+
+
+
 ### 3️⃣ **Ejecutar el programa**
 - Carga el archivo en **MARS**.
 - Presiona **Run** para ver los resultados en la consola.
